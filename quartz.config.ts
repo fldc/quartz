@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "sv-SE",
+    locale: "en-US",
     baseUrl: "notes.fldc.se",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
