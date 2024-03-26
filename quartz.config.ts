@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Notes of Doom",
+    pageTitle: "Notes of Doom",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
